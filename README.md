@@ -13,6 +13,6 @@ Gogeit supports fundamental local Git operations:
 | cat-file -p <object_hash> | Prints raw Git objects (blobs, trees, commits) by hash |
 | help | Lists available commands |
 
-```
-Disclaimer: This is a learning project
-```  
+
+>Disclaimer: This is/was a learning project
+
